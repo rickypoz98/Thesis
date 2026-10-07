@@ -1,2 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
 Dataset/Vulnerability[[:space:]]Dataset/nvdcve.json filter=lfs diff=lfs merge=lfs -text
 Dataset/Vulnerability[[:space:]]Dataset/vulnrichment_2025.zip filter=lfs diff=lfs merge=lfs -text
