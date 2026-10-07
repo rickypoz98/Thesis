@@ -1,0 +1,21 @@
+﻿Asset;Ruolo;Mission Impact;Internet Exposure;Confidentiality;Integrity;Availability
+FW01;Firewall + VPN Gateway;Critical;Exposed;High;High;High
+DC01;Active Directory, DNS, DHCP, PKI;Critical;Not Exposed;High;High;High
+ERP01;Oracle ERP Application Server;Critical;Not Exposed;High;High;High
+DB-ERP01;Oracle ERP Database;Critical;Not Exposed;High;High;High
+CRM01;CRM Application Server;High;Not Exposed;High;High;Medium
+DB-CRM01;CRM Database;High;Not Exposed;High;High;Medium
+HR01;HR Application Server;High;Not Exposed;High;High;Medium
+DB-HR01;HR Database;High;Not Exposed;High;High;Medium
+FS01;SMB File Server;High;Not Exposed;High;High;High
+PRINT01;Print Server;Low;Not Exposed;Low;Medium;Medium
+PRN01;Network Printer;Low;Not Exposed;Low;Low;Low
+PRN02;Network Printer;Low;Not Exposed;Low;Low;Low
+RP01;NGINX Reverse Proxy;Medium;Exposed;Low;High;High
+WEBAPP01;Customer/Supplier Portal;Critical;Exposed;High;High;Medium
+DB-WEB01;Web Application Database;High;Not Exposed;High;High;Medium
+WEBAPP02;Secondary Business Web Application;High;Exposed;Medium;High;Medium
+DB-WEB02;Web Application Database;Medium;Not Exposed;Medium;High;Medium
+CMS01;WordPress Website;Medium;Exposed;Low;Medium;Medium
+DB-CMS01;WordPress Database;Medium;Not Exposed;Medium;Medium;Medium
+WS01-WS10;User Workstations;Medium;Controlled;Medium;Medium;Low

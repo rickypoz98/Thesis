@@ -8,6 +8,9 @@ The GitHub repository contains the datasets used for this thesis. Specifically, 
 - **`nvdcve.json`**  
   Contains the details of the selected CVEs provided by the National Vulnerability Database (NVD).
 
+- **`Tenable_plugins.json`**
+  Contains the details of the selected Tenable Plugins. 
+
 - **`vulnrichment_2025.zip`**  
   Contains the vulnerability enrichment information published by the Cybersecurity and Infrastructure Security Agency (CISA) for the 2025 CVEs. The data are obtained from the [CISA Vulnrichment repository](https://github.com/cisagov/vulnrichment).
 

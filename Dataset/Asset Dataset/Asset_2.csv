@@ -1,0 +1,6 @@
+﻿Asset;Ruolo;Mission Impact;Internet Exposure;Confidentiality;Integrity;Availability
+Asset 1;Development workstation;Low;Not Exposed;Low;Low;Low
+Asset 2;Internal application server;Medium;Controlled;Medium;Medium;Medium
+Asset 3;Business application server;High;Controlled;High;High;High
+Asset 4;Corporate database server;Critical;Not Exposed;High;High;High
+Asset 5;Critical production server;Critical;Exposed;High;High;High
