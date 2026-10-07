@@ -5,7 +5,7 @@ The GitHub repository contains the datasets used for this thesis. Specifically, 
 - **`cve_list.csv`**  
   Contains the list of selected CVEs from 2025.
 
-- **`nvdcve.json`**  
+- **`nvdcve.json.zip`**  
   Contains the details of the selected CVEs provided by the National Vulnerability Database (NVD).
 
 - **`Tenable_plugins.json`**
@@ -16,9 +16,9 @@ The GitHub repository contains the datasets used for this thesis. Specifically, 
 
 ### Asset Dataset
 
-- **`Asset_1.xlsx`**  
+- **`Asset_1.csv`**  
   Contains the asset architecture and the corresponding characteristics, including Mission Impact, Exposure, Confidentiality, Integrity, and Availability, used for the first experiment.
 
-- **`Asset_2.xlsx`**  
+- **`Asset_2.csv`**  
   Contains the asset architecture and the corresponding characteristics, including Mission Impact, Exposure, Confidentiality, Integrity, and Availability, used for the second experiment.
  
